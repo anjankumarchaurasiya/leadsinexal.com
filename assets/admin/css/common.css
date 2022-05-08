@@ -1,0 +1,64 @@
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before {
+		background-color: #007bff;
+	}
+.custom-radio .custom-control-input:checked~.custom-control-label::before {
+     background-color: #007bff; 
+}
+#deletevalue { 
+		margin-bottom: 15px;
+		 color: #fff; 
+} 
+#datatable_wrapper {
+	 clear:both; 
+}
+
+#checkalluser{
+	margin-left: 1px;
+	margin-top: -15px;
+}
+
+.banipcheckbox{
+	margin-bottom: 12px;
+	margin-left: 10px;
+	background-color: #007bff;
+}
+
+.banipvalues{
+	margin-left: 1px;
+	margin-top: -15px;
+}
+
+.baniplable{
+	margin-bottom: 12px;
+	margin-left: 10px;
+}
+
+.modulesettingsblock{
+	display: block;
+}
+
+.modulesettingsnone{
+	display: none;
+}
+
+#submitbutton{
+   margin-left: 15px;
+}
+
+.cmsimage{
+    max-width: 100%;
+    height: auto;
+}
+
+.dashboardbox{
+	width: 100%;
+}
+
+.dashboardcontainer{
+	min-width: 310px;
+    height: 400px;
+    margin: 0 auto
+}
+ 
+
+ 
